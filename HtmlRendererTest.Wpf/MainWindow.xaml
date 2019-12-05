@@ -24,7 +24,6 @@
     </Window.Resources>
     <Grid>
         <Button
-            x:Name="TheButton"
             Padding="10"
             HorizontalAlignment="Center"
             VerticalAlignment="Center"
